@@ -1,2 +1,2 @@
-# suresh2014.gitthub.io
+# suresh2014.github.io
 Omics datascience  
